@@ -1,78 +1,101 @@
-# 👋 Hi, I'm Ashish Kumar
+<h1 align="center">Hi there, I'm Ashish Kumar 👋</h1>
 
-🚀 A passionate **Full-Stack Developer**, Competitive Programmer & Tech Explorer from India  
-🎯 Currently building intuitive products using **React, Node.js, Python & MongoDB**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Competitive+Programmer;MERN+Stack+Engineer;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-six-roan-97.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-157051226/)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ASH-ION-01)
-
----
-
-### 🔧 Tech Stack
-
-- **Languages**: C++ (⭐️ Competitive), Python, JavaScript  
-- **Frontend**: React.js, Tailwind CSS, HTML5, CSS3  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB, SQL  
-- **Tools**: Postman, Git & GitHub, JWT, Razorpay API, Clipdrop API  
-- **Others**: WebRTC, REST APIs, Competitive Programming (3⭐️ CodeChef), ML Basics
+<p align="center">
+  <a href="https://portfolio-six-roan-97.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/ASH-ION-01"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ashish-kumar-157051226/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🛠 My Projects
+## 🚀 Tech Stack
 
-#### 💊 [CareU - Healthcare App](https://careu.vercel.app/)
-A full-stack telemedicine platform with real-time video consults using WebRTC, secure payments with Razorpay, and an AI symptom-checker chatbot.  
-`MERN Stack | WebRTC | Razorpay | Python`
-
-#### 🎨 [ImagiC - AI Image Generator](https://github.com/ASH-ION-01/ImagiC)
-Create stunning AI-generated images using prompts with real-time rendering from the Clipdrop API.  
-`MERN Stack | JWT Auth | Clipdrop API | Razorpay`
-
-#### 📈 GitHub Tracker (Coming Soon)
-An analytics dashboard to track 5,000+ GitHub users with engagement insights.  
-`React | Tailwind | Express | MongoDB`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,tailwind,git,postman,vite" />
+</p>
 
 ---
 
-### 💼 Work Experience
+## 🔥 Projects
 
-**👨‍💻 Software Developer Intern** @ Afame Technologies *(Jun 2024 - Aug 2024)*  
-- Built 15+ reusable React components in just 10 days  
-- Developed and integrated REST APIs increasing data flow efficiency by 15%  
-- Handled end-to-end integration in 2 live projects  
+### 🎯 [CareU – Telemedicine Platform](https://careu.vercel.app/)
+> MERN Stack | WebRTC | Razorpay | Python
 
-**🧵 Software Developer Intern** @ FabricBecho *(Aug 2023 - Feb 2024)*  
-- Researched global expansion strategies  
-- Designed frontend UI and implemented a vector-based fabric search backend, improving relevance by 30%
+A full-stack healthcare platform with live doctor-patient video consultation, AI symptom checker, payments, and live ambulance tracking.
 
----
-
-### 🏆 Achievements
-
-- 🥉 **3rd** out of 28,000+ in *Citi Campus Innovation Challenge 5*
-- 🧠 **Top 5** in Govt. of India BFF Hackathon
-- ☁️ Google Cloud Career Practitioner (2022-2023)
-- 🥇 Global Rank **40** (CodeChef Div 3, Contest 156) out of 31K+
-- 💻 Solved **500+ DSA problems** across GFG & LeetCode  
-  [🔗 GFG Profile](https://www.geeksforgeeks.org/user/ashishajkki/) | [🔗 CodeChef](https://www.codechef.com/users/ashishableo12)
+<p>
+  <img src="https://via.placeholder.com/600x300.png?text=CareU+App+Preview" width="600" />
+</p>
 
 ---
 
-### 📚 Education
+### 🧠 [ImagiC – AI Image Generator](https://github.com/ASH-ION-01/ImagiC)
+> MERN Stack | Clipdrop API | JWT | SaaS Payments
 
-**Delhi Technological University (DTU)**  
-`B.Tech - Computer Engineering (2021 - 2025)`
+Real-time AI-powered image generation SaaS with user authentication and Clipdrop integration.
 
----
-
-### ✨ Let's Connect & Build Cool Things Together
-
-📫 **Mail**: [Ashishableo12@gmail.com](mailto:Ashishableo12@gmail.com)  
-🛠️ I’m open to internships, freelance work, and full-time opportunities where I can solve real-world problems using code.
+<p>
+  <img src="https://via.placeholder.com/600x300.png?text=ImagiC+App+Preview" width="600" />
+</p>
 
 ---
 
-> “Code. Create. Compete. Repeat.” – My motto 🔁  
-> _Thanks for visiting my GitHub! Drop a ⭐️ on my pinned projects if you like them!_
+## 💼 Experience
+
+### 👨‍💻 **Software Developer Intern – Afame Technologies**  
+📅 *Jun 2024 – Aug 2024* | 🛠 React, Node, SQL  
+- Built 15+ reusable components in 10 days  
+- Integrated REST APIs improving flow by 15%  
+- End-to-end contribution on 2 projects  
+
+### 🧵 **Software Developer Intern – FabricBecho**  
+📅 *Aug 2023 – Feb 2024* | 🛠 Python, React.js, Node.js, MongoDB  
+- Created onboarding UI components  
+- Engineered vector-based fabric search (30% improvement)  
+- Supported international expansion with research
+
+---
+
+## 🏆 Hackathons & Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🥉%20Citi%20Innovation%20Challenge-Top%203%20out%20of%2028k-%23FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡%20BFF%20Hackathon-Top%205%20Govt.%20of%20India-%2300C7A9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☁️%20Google%20Cloud-Practitioner%20Certified-%234285F4?style=for-the-badge" />
+</p>
+
+- 🏅 Global Rank **40** in CodeChef Div3 (31K+ participants)  
+- 🏅 Global Rank **162** in CodeChef Div3 (23K+)  
+- 🔥 Solved **500+** problems on GFG + LeetCode  
+- ⭐️ CodeChef 3★ (1665 Max Rating)
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:Ashishableo12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ASH-ION-01"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ashish-kumar-157051226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio-six-roan-97.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASH-ION-01&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASH-ION-01&theme=monokai" />
+</p>
+
+---
+
+> “Consistency is the key that unlocks the code to success.”  
+> ⭐ Feel free to explore my repos and drop a star if you find something interesting!
+
