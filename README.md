@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Ashish Kumar 👋</h1>
+<h1 align="center">Hey 👋, I'm Ashish Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Competitive+Programmer;MERN+Stack+Engineer;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Competitive+Programmer;MERN+Stack+Engineer;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,33 +12,33 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,tailwind,git,postman,vite" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nextjs,nodejs,express,mongodb,tailwind,git,postman,vite" />
 </p>
 
 ---
 
-## 🔥 Projects
+## 🌟 Highlight Projects
 
-### 🎯 [CareU – Telemedicine Platform](https://careu.vercel.app/)
-> MERN Stack | WebRTC | Razorpay | Python
+### 💊 [CareU – Telemedicine Platform](https://careu.vercel.app/)
+> MERN • WebRTC • Razorpay • AI Symptom Checker • Python
 
-A full-stack healthcare platform with live doctor-patient video consultation, AI symptom checker, payments, and live ambulance tracking.
+A modern healthcare platform enabling real-time doctor-patient video consultation, online payments, AI-based symptom analysis, and ambulance tracking.
 
-<p>
+<p align="center">
   <img src="https://via.placeholder.com/600x300.png?text=CareU+App+Preview" width="600" />
 </p>
 
 ---
 
-### 🧠 [ImagiC – AI Image Generator](https://github.com/ASH-ION-01/ImagiC)
-> MERN Stack | Clipdrop API | JWT | SaaS Payments
+### 🖼️ [ImagiC – AI Image Generator](https://github.com/ASH-ION-01/ImagiC)
+> MERN • Clipdrop API • JWT • SaaS Payment Gateway
 
-Real-time AI-powered image generation SaaS with user authentication and Clipdrop integration.
+AI-powered SaaS for real-time image generation with user authentication and secure payments.
 
-<p>
+<p align="center">
   <img src="https://via.placeholder.com/600x300.png?text=ImagiC+App+Preview" width="600" />
 </p>
 
@@ -46,36 +46,48 @@ Real-time AI-powered image generation SaaS with user authentication and Clipdrop
 
 ## 💼 Experience
 
-### 👨‍💻 **Software Developer Intern – Afame Technologies**  
-📅 *Jun 2024 – Aug 2024* | 🛠 React, Node, SQL  
+### 👨‍💻 **Software Developer Intern** @ Afame Technologies  
+`Jun 2024 – Aug 2024` | React • Node • SQL  
 - Built 15+ reusable components in 10 days  
-- Integrated REST APIs improving flow by 15%  
-- End-to-end contribution on 2 projects  
+- Integrated REST APIs improving efficiency by 15%  
+- Contributed end-to-end on 2 client-facing products  
 
-### 🧵 **Software Developer Intern – FabricBecho**  
-📅 *Aug 2023 – Feb 2024* | 🛠 Python, React.js, Node.js, MongoDB  
-- Created onboarding UI components  
-- Engineered vector-based fabric search (30% improvement)  
-- Supported international expansion with research
+### 🧵 **Developer Intern** @ FabricBecho  
+`Aug 2023 – Feb 2024` | React • Python • MongoDB  
+- Engineered fabric search using vector matching (30% boost)  
+- Built onboarding UI components for vendor dashboard  
+- Supported international rollout through data-driven research  
 
 ---
 
-## 🏆 Hackathons & Achievements
+## 🏆 Achievements & Hackathons
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🥉%20Citi%20Innovation%20Challenge-Top%203%20out%20of%2028k-%23FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⚡%20BFF%20Hackathon-Top%205%20Govt.%20of%20India-%2300C7A9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/☁️%20Google%20Cloud-Practitioner%20Certified-%234285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Citi%20Innovation%20Challenge-Top%203%20of%2028k-%23FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BFF%20Hackathon-Top%205%20Govt.%20of%20India-%2300C7A9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-Practitioner%20Certified-%234285F4?style=for-the-badge" />
 </p>
 
-- 🏅 Global Rank **40** in CodeChef Div3 (31K+ participants)  
-- 🏅 Global Rank **162** in CodeChef Div3 (23K+)  
-- 🔥 Solved **500+** problems on GFG + LeetCode  
-- ⭐️ CodeChef 3★ (1665 Max Rating)
+- 🏅 CodeChef Div3 Global Rank **#40** (31K+ participants)  
+- 🏅 CodeChef Div3 Global Rank **#162** (23K+)  
+- 💻 Solved **500+ DSA problems** across GFG + LeetCode  
+- ⭐️ CodeChef 3★ (Max Rating: 1665)  
 
 ---
 
-## 📬 Contact Me
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ASH-ION-01&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASH-ION-01&theme=monokai" />
+</p>
+
+---
+
+## 📬 Let's Connect
 
 <p align="center">
   <a href="mailto:Ashishableo12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -86,16 +98,6 @@ Real-time AI-powered image generation SaaS with user authentication and Clipdrop
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASH-ION-01&theme=radical" />
-</p>
+<p align="center"><strong>“Consistency is the key that unlocks the code to success.”</strong></p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASH-ION-01&theme=monokai" />
-</p>
-
----
-
-> “Consistency is the key that unlocks the code to success.”  
-> ⭐ Feel free to explore my repos and drop a star if you find something interesting!
-
+<p align="center">✨ Explore my repositories & drop a ⭐ if something helps you!</p>
