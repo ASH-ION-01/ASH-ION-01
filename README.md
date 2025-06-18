@@ -28,7 +28,7 @@
 A modern healthcare platform enabling real-time doctor-patient video consultation, online payments, AI-based symptom analysis, and ambulance tracking.
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=CareU+App+Preview" width="600" />
+  <img src="https://raw.githubusercontent.com/ASH-ION-01/ASH-ION-01/main/assets/careu.png" width="600" alt="CareU App Preview" />
 </p>
 
 ---
@@ -39,7 +39,7 @@ A modern healthcare platform enabling real-time doctor-patient video consultatio
 AI-powered SaaS for real-time image generation with user authentication and secure payments.
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=ImagiC+App+Preview" width="600" />
+  <img src="https://raw.githubusercontent.com/ASH-ION-01/ASH-ION-01/main/assets/imagic.png" width="600" alt="ImagiC App Preview" />
 </p>
 
 ---
