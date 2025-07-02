@@ -34,7 +34,7 @@ A modern healthcare platform enabling real-time doctor-patient video consultatio
 ---
 
 ### 🖼️ [ImagiC – AI Image Generator](https://github.com/ASH-ION-01/ImagiC)
-> MERN • Clipdrop API • JWT • SaaS Payment Gateway
+> MERN • Clipdrop API • JWT • SaaS Payment Gateways
 
 AI-powered SaaS for real-time image generation with user authentication and secure payments.
 
