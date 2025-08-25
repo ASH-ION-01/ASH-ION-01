@@ -47,13 +47,13 @@ AI-powered SaaS for real-time image generation with user authentication and secu
 ## 💼 Experience
 
 ### 👨‍💻 **Software Developer Intern** @ Afame Technologies  
-`Jun 2024 – Aug 2024` | React • Node • SQL  
+`Mar 2025 – May 2025` | React • Node • SQL  
 - Built 15+ reusable components in 10 days  
 - Integrated REST APIs improving efficiency by 15%  
 - Contributed end-to-end on 2 client-facing products  
 
 ### 🧵 **Developer Intern** @ FabricBecho  
-`Aug 2023 – Feb 2024` | React • Python • MongoDB  
+`Aug 2024 – Feb 2025` | React • Python • MongoDB  
 - Engineered fabric search using vector matching (30% boost)  
 - Built onboarding UI components for vendor dashboard  
 - Supported international rollout through data-driven research  
@@ -71,7 +71,7 @@ AI-powered SaaS for real-time image generation with user authentication and secu
 - 🏅 CodeChef Div3 Global Rank **#40** (31K+ participants)  
 - 🏅 CodeChef Div3 Global Rank **#162** (23K+)  
 - 💻 Solved **500+ DSA problems** across GFG + LeetCode  
-- ⭐️ CodeChef 3★ (Max Rating: 1665)  
+- ⭐️ CodeChef 4★ (Max Rating: 1867)  
 
 ---
 
